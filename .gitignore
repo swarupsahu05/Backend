@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 
@@ -14,3 +15,7 @@ build/
 
 # OS files
 .DS_Store
+=======
+
+.env
+>>>>>>> origin/main
